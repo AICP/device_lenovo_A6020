@@ -540,3 +540,7 @@ on boot
    chmod 666 /sys/android_touch/sweep2wake
    write /sys/android_touch/sweep2wake 4
    chmod 644 /sys/android_touch/sweep2wake
+
+service qcom-mem /system/bin/sh /system/etc/init.qcom.mem.sh
+    disabled
+    oneshot
