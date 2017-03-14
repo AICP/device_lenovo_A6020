@@ -3,7 +3,7 @@ ENABLE_CPUSETS := true
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/lenovo/msm8916
-TARGET_KERNEL_CONFIG := A6020_k5_defconfig
+TARGET_KERNEL_CONFIG := wt82918-perf_defconfig
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-android- 
 
