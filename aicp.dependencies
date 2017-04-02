@@ -7,7 +7,7 @@
   {
     "repository": "chaubeyprateek/kernel_lenovo_msm8916",
     "target_path": "kernel/lenovo/msm8916",
-    "branch": "cm-14.1"
+    "branch": "new"
   },
   {
     "repository": "LineageOS/android_external_sony_boringssl-compat",
