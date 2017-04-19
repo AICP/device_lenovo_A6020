@@ -42,10 +42,6 @@ persist.camera.cpp.duplication=false
 # Charger
 persist.sys.chgdisabled=0
 
-#Device Prop
-ro.product.device=A6020
-ro.product.model=A6020
-
 # Display
 debug.composition.type=c2d
 debug.enable.sglscale=1
