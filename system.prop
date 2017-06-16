@@ -12,6 +12,7 @@ persist.audio.fluence.voicerec=false
 persist.audio.fluence.speaker=false
 use.voice.path.for.pcm.voip=true
 vidc.enc.narrow.searchrange=1
+persist.call_recording.src=4
 
 # Audio offload
 audio.offload.buffer.size.kb=64
