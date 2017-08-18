@@ -3,10 +3,10 @@
 #
 
 # Apks
-app/TimeService/TimeService.apk
-priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
-vendor/app/ims/ims.apk
-vendor/app/imssettings/imssettings.apk
+-app/TimeService/TimeService.apk
+-priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
+-vendor/app/ims/ims.apk
+-vendor/app/imssettings/imssettings.apk
 
 # Audio Calibration Files
 etc/acdbdata/MTP/msm8939-tapan-snd-card/MTP_WCD9306_Bluetooth_cal.acdb
@@ -93,12 +93,9 @@ etc/firmware/ice40.bin
 etc/firmware/leia_pfp_470.fw
 etc/firmware/leia_pm4_470.fw
 etc/firmware/venus.b00
-etc/firmware/venus.b01
 etc/firmware/venus.b02
 etc/firmware/venus.b03
 etc/firmware/venus.b04
-etc/firmware/venus.mbn
-etc/firmware/venus.mdt
 etc/firmware/widevine.b00
 etc/firmware/widevine.b01
 etc/firmware/widevine.b02
@@ -110,9 +107,9 @@ vendor/firmware/a420_pfp.fw
 vendor/firmware/a420_pm4.fw
 
 # Framework
-framework/imscmlibrary.jar
-framework/qcnvitems.jar
-framework/qcrilhook.jar
+-framework/imscmlibrary.jar
+-framework/qcnvitems.jar
+-framework/qcrilhook.jar
 
 # System Libs
 lib/drm/libdrmwvmplugin.so
@@ -124,8 +121,8 @@ lib/libarcsoft_beautyshot.so
 lib/libarcsoft_face_detection.so
 lib/libarcsoft_face_tracking.so
 lib/libdivxdrmdecrypt.so
-lib/libloc_api_v02.so
-lib/libloc_ds_api.so
+-lib/libloc_api_v02.so
+-lib/libloc_ds_api.so
 lib/libmm-qcamera.so
 lib/libmmcamera_interface.so
 lib/libmmjpeg_interface.so
@@ -136,8 +133,8 @@ lib64/hw/keystore.default.so
 lib64/hw/keystore.qcom.so
 lib64/hw/sensors.msm8916.so
 lib64/libdivxdrmdecrypt.so
-lib64/libloc_api_v02.so
-lib64/libloc_ds_api.so
+-lib64/libloc_api_v02.so
+-lib64/libloc_ds_api.so
 lib64/libOmxVdecHevc.so
 
 #
@@ -330,7 +327,7 @@ vendor/lib/libsubsystem_control.so
 vendor/lib/libSubSystemShutdown.so
 vendor/lib/libsystem_health_mon.so
 vendor/lib/libthermalclient.so
-vendor/lib/libtime_genoff.so
+-vendor/lib/libtime_genoff.so
 vendor/lib/libTimeService.so
 vendor/lib/libts_detected_face_hal.so
 vendor/lib/libts_face_beautify_hal.so
@@ -451,7 +448,7 @@ vendor/lib64/libSubSystemShutdown.so
 vendor/lib64/libsystem_health_mon.so
 vendor/lib64/libthermalclient.so
 vendor/lib64/libthermalioctl.so
-vendor/lib64/libtime_genoff.so
+-vendor/lib64/libtime_genoff.so
 vendor/lib64/libTimeService.so
 vendor/lib64/libtzdrmgenprov.so
 vendor/lib64/libvcel.so
